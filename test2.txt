@@ -1,0 +1,6 @@
+def mul():
+    print("multiplication")
+    a=int(input("enter number A:"))
+    b=int(input("enter numrer B:"))
+    print(a*b)
+mul()
